@@ -7,3 +7,5 @@
 # Para realizar consultas, ediciones e eliminaciones se utiliza el endpoint /me. Imagen 2,3,4
 
 # La Autenticacion no me fue posible realizarla, ya que me encontre con una diferencia de versiones y el tiempo no me permitio investigar mas a fondo sobre el tema.
+
+# Documentacion de POSTMAN https://documenter.getpostman.com/view/5301731/UVRHhiMg
